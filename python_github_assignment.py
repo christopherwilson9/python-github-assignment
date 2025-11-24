@@ -14,3 +14,6 @@ weekly_hours = hours * 8
 
 #Final Message
 print(f"You are on track to study {weekly_hours} hours this week.")
+
+#Final Cleanup
+Clean up code, add comments, finalize program
